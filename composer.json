@@ -1,0 +1,8 @@
+{
+    "name": "he/twofactorauth",
+    "type": "magento-module",
+    "version": "dev-master",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
