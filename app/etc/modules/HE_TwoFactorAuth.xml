@@ -2,7 +2,7 @@
 <config>
     <modules>
         <HE_TwoFactorAuth>
-            <active>true</active>
+            <active>false</active>
             <codePool>community</codePool>
         </HE_TwoFactorAuth>
     </modules>
